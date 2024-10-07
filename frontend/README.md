@@ -10,11 +10,11 @@ This is the frontend of our trading app
 
 ## Install packages
 
-### `npm i`
+`npm i`
 
 ## Run the project
 
-### `npm run start`
+`npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
