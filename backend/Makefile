@@ -1,0 +1,6 @@
+test: ## Runs all Go tests in the project with verbose output.
+	go test -v -race -coverpkg ./cmd/server -coverprofile cover.out ./cmd/server/...
+
+
+lint: ## Lints all Go files in the project to ensure they meet the project's standards.
+	golangci-lint run ./...
