@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.select-dropdown {
+  padding-inline: 8px;
+    width: 350px;
+    height: 48px;
+    border-radius: 6px;
+}
+
+.latest-price {
+  padding-block: 24px;
+  margin-left: 10px;
+  color: black;
+}
