@@ -10,20 +10,20 @@ This is the backend of our trading app
 
 ## Install dependencies and vendor them:
 
-### `go mod tidy`
+`go mod tidy`
 
-### `go mod vendor`
+`go mod vendor`
 
 ## Run the tests:
 
-###  `make test`
+`make test`
 
 ## Run the lint
 
-###  `make lint`
+`make lint`
 
 ## Build and run the application:
 
-### `go run cmd/bff/main.go`
+`go run cmd/bff/main.go`
 
 
