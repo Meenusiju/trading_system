@@ -2,7 +2,7 @@
 
 This is a OHLC candlestick chart service for our trading system. The chart displays candlestick patterns for `BTCUSD` `ETHUSDT` `PEPEUSDT` in a `1minute` time frame. The api endpoint is from [binance websocket](https://developers.binance.com/docs/binance-spot-api-docs/web-socket-streams#aggregate-trade-streams)
 
-## Tech stack
+## Tech Stack
 
 Frontend: `React` `Typescript` `css` `Apex chart`
 
@@ -16,11 +16,11 @@ Backend: `Go lang` `web socket`
 
 ## Run the app
 
-## `docker-compose up --build`
+### `docker-compose up --build`
 
-## Abort/stop container
+## Abort/Stop Container
 
-## `docker-compose down`
+### `docker-compose down`
 
 ## Folder Structure
 
