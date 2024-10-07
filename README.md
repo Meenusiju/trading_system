@@ -22,6 +22,8 @@ Backend: `Go lang` `web socket`
 
 ### `docker-compose down`
 
+The application will run in [localhost](http://localhost:3001/)
+
 ## Folder Structure
 
 ## Backend
